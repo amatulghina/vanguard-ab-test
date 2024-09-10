@@ -1,0 +1,9 @@
+process_step,duration,duration_seconds,Variation
+step_1,0 days 00:00:11.548810816,11.55,Test
+step_2,0 days 00:00:27.246498927,27.25,Test
+step_3,0 days 00:01:09.999469120,70.0,Test
+confirm,0 days 00:01:12.551470136,72.55,Test
+step_1,0 days 00:00:21.430498981,21.43,Control
+step_2,0 days 00:00:24.045226856,24.05,Control
+step_3,0 days 00:01:11.645597405,71.65,Control
+confirm,0 days 00:01:30.648709234,90.65,Control

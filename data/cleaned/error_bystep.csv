@@ -1,0 +1,9 @@
+process_step,error,Variation
+step_1,6404,Test
+step_2,4780,Test
+step_3,4744,Test
+confirm,75,Test
+step_1,2491,Control
+step_2,2163,Control
+step_3,4247,Control
+confirm,228,Control
