@@ -19,5 +19,4 @@ Did the new UI lead to higher completion rates?
 - Reduce as many bugs /tech errors as feasibly possible for the test UI
 
 # Collaborators
-Aisyah Amatul Ghina
-Sasha Crowe
+Aisyah Amatul Ghina, Sasha Crowe
