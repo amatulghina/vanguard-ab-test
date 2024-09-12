@@ -15,8 +15,8 @@ Did the new UI lead to higher completion rates?
 - Error Rates
 
 # Conclusions
-1] Run another A/B test, using the insights from this A/B test
-2] Reduce as many bugs /tech errors as feasibly possible for the test UI
+- Run another A/B test, using the insights from this A/B test
+- Reduce as many bugs /tech errors as feasibly possible for the test UI
 
 # Collaborators
 Aisyah Amatul Ghina
