@@ -20,3 +20,6 @@ Did the new UI lead to higher completion rates?
 
 # Collaborators
 Aisyah Amatul Ghina, Sasha Crowe
+
+# Kanban Board
+https://trello.com/b/IiRkbmdb/module2projectgroup2
