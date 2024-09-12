@@ -14,6 +14,9 @@ Did the new UI lead to higher completion rates?
 - Average Session Duration
 - Error Rates
 
+# Tableau Dashboard
+https://public.tableau.com/app/profile/aag7648/viz/VanguardDashboardAnalysis/DashboardAnalysis?publish=yes
+
 # Conclusions
 - Run another A/B test, using the insights from this A/B test
 - Reduce as many bugs /tech errors as feasibly possible for the test UI
